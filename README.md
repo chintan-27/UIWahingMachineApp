@@ -4,5 +4,5 @@ A new Flutter application.
 
 ## Just a UI for practice
 
-![](https://github.com/chintan-27/UIWahingMachineApp/blob/master/one.gif)
+![](https://github.com/chintan-27/UIWahingMachineApp/blob/master/one.gif, width:200)
 
